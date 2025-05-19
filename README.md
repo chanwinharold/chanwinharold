@@ -113,5 +113,5 @@
 > *“La donnée est une histoire qui attend d’être racontée. Je suis ici pour lui donner une voix.”* – Harold Chanwin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Passionné+par+le+web+et+la+data+%F0%9F%93%88;Concepteur+de+solutions+élégantes+et+efficaces+%E2%9A%99%EF%B8%8F;Toujours+curieux+et+en+apprentissage+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Passionné+par+le+web+et+la+data+%F0%9F%93%88;Concepteur+de+solutions+élégantes+et+efficaces+%E2%9A%99%EF%B8%8F;Toujours+curieux+et+en+apprentissage+%F0%9F%8C%8D" />
 </p>
