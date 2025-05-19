@@ -51,21 +51,21 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/chanwinharold/Amazon_Sales">
+      <a href="https://github.com/chanwinharold/Amazon_Sales" target="_blank">
         <img src="assets/images.png" width="280px"/>
         <br/><b>📈 Amazon Sales</b>
       </a>
       <br/>Analyse et visualisation interactive des données de ventes
     </td>
     <td align="center">
-      <a href="https://youtube-data-project.vercel.app/">
+      <a href="https://youtube-data-project.vercel.app/" target="_blank">
         <img src="assets/bg_data.jpg" width="280px"/>
         <br/><b>📊​ Youtube Streaming Videos</b>
       </a>
       <br/>Analyse et Visualisation des données sur les vidéos YouTube les plus populaires
     </td>
     <td align="center">
-      <a href="https://conference-ticket-generator-main-two.vercel.app/">
+      <a href="https://conference-ticket-generator-main-two.vercel.app/" target="_blank">
         <img src="assets/preview.jpg" width="280px"/>
         <br/><b>🎟️​ Générateur de ticket</b>
       </a>
@@ -78,7 +78,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chanwinharold&style=flat-square&color=blue" alt="visiteurs"/>
-  <a href="https://github.com/chanwinharold?tab=followers">
+  <a href="https://github.com/chanwinharold?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/chanwinharold?label=Follow&style=social" alt="Suivez-moi sur GitHub">
   </a>
 </p>
@@ -94,7 +94,7 @@
   <a href="https://www.frontendmentor.io/profile/chanwinharold" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   </a>
-  <a href="mailto:chanwinharold@gmail.com">
+  <a href="mailto:chanwinharold@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
