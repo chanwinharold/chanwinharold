@@ -65,6 +65,13 @@
       <br/>Analyse et Visualisation des données sur les vidéos YouTube les plus populaires
     </td>
     <td align="center">
+      <a href="https://ecommerce-product-page-main-orpin-eight.vercel.app/" target="_blank">
+        <img src="assets/preview.jpg" width="280px"/>
+        <br/><b>👟 Site E-commerce: Sneakers</b>
+      </a>
+      <br/>Front-end responsive avec HTML, Tailwind CSS et JavaScript
+    </td>
+    <td align="center">
       <a href="https://conference-ticket-generator-main-two.vercel.app/" target="_blank">
         <img src="assets/preview.jpg" width="280px"/>
         <br/><b>🎟️​ Générateur de ticket</b>
