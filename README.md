@@ -57,25 +57,56 @@
       <br/>Interactive data analysis and visualization of sales data
     </td>
     <td align="center">
-      <a href="https://youtube-data-project.vercel.app/" target="_blank">
-        <img src="assets/youtube-trend-preview.jpg" width="280px"/>
+      <a href="https://github.com/chanwinharold/Prevision_du_prix_des_vols" target="_blank">
+        <img src="assets/vols-img.jpeg" width="280px"/>
+        <br/><b>📊 Exploratory analysis of air flight data</b>
+      </a>
+      <br/>Exploratory Data Analysis (EDA) project for flight price prediction.
+    </td>
+    <td align="center">
+      <a href="https://github.com/chanwinharold/Netflix_Data_Project" target="_blank">
+        <img src="assets/Netflix-img.webp" width="280px"/>
+        <br/><b>📊 Netflix Data Analysis</b>
+      </a>
+      <br/>Data analysis and visualization of movies and TV Shows
+    </td>
+	<td align="center">
+      <a href="https://github.com/chanwinharold/Youtube_Data_Project" target="_blank">
+        <img src="assets/youtube_img.webp" width="280px"/>
         <br/><b>📊​ Youtube Streaming Videos</b>
       </a>
       <br/>Data analysis and visualization of the most popular YouTube videos
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://ecommerce-product-page-main-orpin-eight.vercel.app/" target="_blank">
         <img src="assets/ecommerce-preview.jpg" width="280px"/>
         <br/><b>👟 E-commerce Site: Sneakers</b>
       </a>
-      <br/>Responsive front-end using HTML, Tailwind CSS, and JavaScript
+      <br/>Responsive front-end e-commerce website using HTML, Tailwind CSS, and JavaScript
     </td>
-    <td align="center">
+	<td align="center">
+      <a href="https://loopstudios-landing-page-main-drab-three.vercel.app/" target="_blank">
+        <img src="assets/loopstudio.jpg" width="280px"/>
+        <br/><b>Loopstudios landing page challenge</b>
+      </a>
+      <br/>Responsive landing page using HTML, pure CSS, and JavaScript
+    </td>
+	<td align="center">
       <a href="https://conference-ticket-generator-main-two.vercel.app/" target="_blank">
         <img src="assets/generator-ticket-preview.jpg" width="280px"/>
         <br/><b>🎟️​ Ticket Generator</b>
       </a>
-      <br/>Responsive front-end using HTML, Tailwind CSS, and JavaScript
+      <br/>Responsive form and ticket generator using HTML, Tailwind CSS, and JavaScript
+    </td>
+    <td align="center">
+      <a href="https://github.com/chanwinharold/sunnyside-agency-landing-page-main" target="_blank">
+        <img src="assets/sunntside.jpg" width="280px"/>
+        <br/><b>Sunnyside agency landing page challenge</b>
+      </a>
+      <br/>Responsive landing page using HTML, Sass/Scss, and JavaScript
     </td>
   </tr>
 </table>
@@ -110,7 +141,8 @@
 ### ✨ About Me
 
 - 🎓 Student in applied mathematics & data science  
-- 💡 Currently learning front-end frameworks and multivariate analysis  
+- 💡 Currently learning React JS, back-end technologies and machine learning  
+- 💻 Leader of Front-end department at [USD's Community](https://www.linkedin.com/company/united-student-developers)
 - 🌱 I believe in community-driven learning and open source  
 - 🎯 2025 Goal: Build an impactful project combining web and data  
 
