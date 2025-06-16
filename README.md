@@ -102,7 +102,7 @@
       <br/>Responsive form and ticket generator using HTML, Tailwind CSS, and JavaScript
     </td>
     <td align="center">
-      <a href="https://github.com/chanwinharold/sunnyside-agency-landing-page-main" target="_blank">
+      <a href="https://sunnyside-agency-landing-page-main-smoky-five.vercel.app/" target="_blank">
         <img src="assets/sunntside.jpg" width="280px"/>
         <br/><b>Sunnyside agency landing page challenge</b>
       </a>
