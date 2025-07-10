@@ -1,7 +1,7 @@
 <!-- Custom Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="Harold Chanwin - Data Science & Front-End Developer" style="border-radius: 12px;">
-</p>
+</p> -->
 
 <h2 align="center">👋🎉 Welcome to my page, I'm Harold Chanwin</h2>
 <p align="center">
