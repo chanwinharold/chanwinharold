@@ -5,7 +5,7 @@
 
 <h2 align="center">👋🎉 Welcome to my page, I'm Harold Chanwin</h2>
 <p align="center">
-  <b>Data & AI Student | Software Engineer</b><br/>
+  <b>Data & AI Student | Web Developer</b><br/>
   Curious and creative, I turn data into decisions and designs into immersive experiences.
 </p>
 
