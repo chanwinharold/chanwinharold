@@ -1,11 +1,11 @@
-<!-- Custom Banner -->
+<!-- <!-- <!-- Custom Banner -->
 <!-- <p align="center">
   <img src="assets/banner.png" alt="Harold Chanwin - Data Science & Front-End Developer" style="border-radius: 12px;">
 </p> -->
 
-<h2 align="center">👋🎉 Welcome to my page, I'm Harold Chanwin</h2>
+<h2 align="center">👋🎉 Welcome to my GitHub page, I'm Harold Chanwin</h2>
 <p align="center">
-  <b>Data & AI Student | Web Developer</b><br/>
+  <b>Data & AI Student | Full Stack Developer</b><br/>
   Curious and creative, I turn data into decisions and designs into immersive experiences.
 </p>
 
@@ -55,12 +55,12 @@
       </a>
       <br/>Data analysis and visualization of movies and TV Shows
     </td>
-	<td align="center">
-      <a href="https://github.com/chanwinharold/Youtube_Data_Project" target="_blank">
-        <img src="assets/youtube_img.webp" width="280px"/>
-        <br/><b>📊​ Youtube Streaming Videos</b>
-      </a>
-      <br/>Data analysis and visualization of the most popular YouTube videos
+    <td align="center">
+        <a href="https://github.com/chanwinharold/Youtube_Data_Project" target="_blank">
+          <img src="assets/youtube_img.webp" width="280px"/>
+          <br/><b>📊​ Youtube Streaming Videos</b>
+        </a>
+        <br/>Data analysis and visualization of the most popular YouTube videos
     </td>
   </tr>
 
@@ -72,26 +72,26 @@
       </a>
       <br/>Responsive front-end e-commerce website using HTML, Tailwind CSS, and JavaScript
     </td>
-	<td align="center">
-      <a href="https://loopstudios-landing-page-main-drab-three.vercel.app/" target="_blank">
-        <img src="assets/loopstudio.jpg" width="280px"/>
-        <br/><b>Loopstudios landing page challenge</b>
-      </a>
-      <br/>Responsive landing page using HTML, pure CSS, and JavaScript
-    </td>
-	<td align="center">
-      <a href="https://conference-ticket-generator-main-two.vercel.app/" target="_blank">
-        <img src="assets/generator-ticket-preview.jpg" width="280px"/>
-        <br/><b>🎟️​ Ticket Generator</b>
-      </a>
-      <br/>Responsive form and ticket generator using HTML, Tailwind CSS, and JavaScript
+    <td align="center">
+        <a href="https://loopstudios-landing-page-main-drab-three.vercel.app/" target="_blank">
+          <img src="assets/loopstudio.jpg" width="280px"/>
+          <br/><b>​🏢​ Loopstudios landing page challenge</b>
+        </a>
+        <br/>Responsive landing page using HTML, pure CSS, and JavaScript
     </td>
     <td align="center">
-      <a href="https://sunnyside-agency-landing-page-main-smoky-five.vercel.app/" target="_blank">
-        <img src="assets/sunntside.jpg" width="280px"/>
-        <br/><b>Sunnyside agency landing page challenge</b>
+        <a href="https://github.com/chanwinharold/Full_Stack_Blog_App" target="_blank">
+          <img src="./assets/blog_app_dark_mode.png" width="280px"/>
+          <br/><b>🌐​ Full Stack Blog App</b>
+        </a>
+        <br/>A full-stack blogging application for creating, updating, and deleting blog posts. Inspired by standard frameworks with React JS, Express, Node.js, and MySQL
+    </td>
+    <td align="center">
+      <a href="https://bookmark-landing-page-master-hazel.vercel.app/" target="_blank">
+        <img src="https://github.com/chanwinharold/bookmark-landing-page-master/raw/main/public/preview.jpg" width="280px"/>
+        <br/><b>🔖​ Bookmark landing page</b>
       </a>
-      <br/>Responsive landing page using HTML, Sass/Scss, and JavaScript
+      <br/>Responsive landing page using React JS
     </td>
   </tr>
 </table>
@@ -125,9 +125,9 @@
 
 ### ✨ About Me
 
-- 🎓 Student in applied mathematics & data science
-- 💡 Currently learning React JS, back-end technologies and machine learning
-- 💻 Leader of Front-end department at [USD's Community](https://www.linkedin.com/company/united-student-developers)
+- 🎓 Student in applied mathematics & computer science
+- 💡 Currently learning Machine learning algorithms
+- 💻 Leader of Front-end department and CTO at [USD's Community](https://www.linkedin.com/company/united-student-developers)
 - 🌱 I believe in community-driven learning and open source
 - 🎯 2025 Goal: Build an impactful project combining web and data
 
